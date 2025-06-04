@@ -1,0 +1,2 @@
+Due the error of the file model_chatbot.ipynb, this is the link for access the notebook <br>
+[Notebook model_chatbot.ipynb](https://colab.research.google.com/drive/13ymZKxB5njFNzJdVxjrZRiyiBFXKKukk?usp=sharing)
