@@ -10,8 +10,7 @@ An intelligent chatbot for blood donation system that assists users in finding b
 
 ## ⚠️ **File Limitation Notice**
 Due to GitHub file size limitations, not all project files can be uploaded to this repository. Full files and datasets can be accessed via Google Drive below: <br>
-
-### 📁 Complete Project Archive <br>
+Complete Project Archive <br>
 [Download Full Project Files]('https://drive.google.com/drive/folders/1NKqF0l96iDXmoZgR0zkBZSa-o9N9MZTL?usp=sharing')
 The link above contains all the project files.
 
