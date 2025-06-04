@@ -16,15 +16,15 @@ Due to GitHub file size limitations, not all project files can be uploaded to th
 The link above contains all the project files.
 
 ### 📋 Files Included in GitHub Repository
-Machine-Learning/
-├── Chatbot/
-│   ├── Chatbot_BloodConnect.ipynb    # Main training notebook
-│   ├── model_chatbot.ipynb           # Model architecture
-│   └── notes.txt                     # Development notes
-├── Dataset/
-│   ├── bloodconnect_faq_train.csv    # Training dataset
-│   ├── bloodconnect_faq_valid.csv    # Validation dataset
-│   └── Copy_of_Dataset_Seleksi_Pendonor_Darah.csv
-├── Time_Series_Blood_Donation/       # Time series analysis
-├── requirements.txt                  # Python dependencies
-└── README.md                        # This file
+Machine-Learning/ <br>
+├── Chatbot/<br>
+│   ├── Chatbot_BloodConnect.ipynb    # Main training notebook <br>
+│   ├── model_chatbot.ipynb           # Model architecture <br>
+│   └── notes.txt                     # Development notes <br>
+├── Dataset/ <br>
+│   ├── bloodconnect_faq_train.csv    # Training dataset <br>
+│   ├── bloodconnect_faq_valid.csv    # Validation dataset <br>
+│   └── Copy_of_Dataset_Seleksi_Pendonor_Darah.csv <br>
+├── Time_Series_Blood_Donation/       # Time series analysis <br>
+├── requirements.txt                  # Python dependencies <br>
+└── README.md                        # This file <br>
