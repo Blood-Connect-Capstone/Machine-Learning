@@ -1,43 +1,30 @@
-# Air-Index-Quality
+# BloodConnect Chatbot
 
-## Project Overview
-This is a dashboard that show analyzes air pollution data from Dongsi and Wanliu stations from 2013-2017, focusing on PM10 concentrations and meteorological factors (TEMP, DEWP, and PRES)
+## **Overview**
+An intelligent chatbot for blood donation system that assists users in finding blood donation information and blood health related services.
 
-## Live Dashboard 
-[Air-Index-Quality Dashboard](https://air-index-quality-alddar.streamlit.app/)
+## **Data Source**
+- [Medical Chatbot Dataset]('https://www.kaggle.com/datasets/saifulislamsarfaraz/medical-chatbot-dataset/data')
+- [Indonesia QnA Health Dataset]('https://www.kaggle.com/datasets/gufranakasamudra/indonesia-qna-health-dataset')
+- Custom curated dataset for blood donation services (that we used)
 
-## Data Source
-Raw Dataset air quality from [Dicoding Air Quality](https://air-quality-geraldalivia.streamlit.app/). For the analysis and development dashboard use the combined data version from Dongsi and Wanliu Station [Combined Data](https://drive.google.com/file/d/1--d07m7J4CniV6pfScx_S6sde5XJu05J/view?usp=drive_link). Analysis focus on PM10 levels and other meteorological related data.
+## ⚠️ **File Limitation Notice**
+Due to GitHub file size limitations, not all project files can be uploaded to this repository. Full files and datasets can be accessed via Google Drive below: <br>
 
-## Setup and Intallation
-Requirements:
-Python 3.13.0
-Library : 
-- Streamlit
-- Pandas
-- Matplotlib
-- Seaborn
-- Gdown
+### 📁 Complete Project Archive <br>
+[Download Full Project Files]('https://drive.google.com/drive/folders/1NKqF0l96iDXmoZgR0zkBZSa-o9N9MZTL?usp=sharing')
+The link above contains all the project files.
 
-1. Clone this repository to your local machine
-   ```
-   git clone https://github.com/yourusername/air-quality-analysis.git
-   ```
-2. Install the reired library or packages by running this command on your terminal
-   ```
-   pip install pandas matplotlib gdown seaborn streamlit
-   ```
-   or by the following command:
-   ```
-   pip install -r requirements.txt
-   ```
-3. To run the Dashboard
-   Navigate to the  `air-quality-project.py` and runn the streamlit App
-   ```
-   streamlit run air-quality-project.py
-   ```
-    
-## About me
-- **Name**: Geralda Livia Nugraha
-- **Email Address**: mc299d5x1168@student.devacademy.id
-- **Dicoding ID**: [MC299D5X1168](https://www.dicoding.com/users/alddar/)
+### 📋 Files Included in GitHub Repository
+Machine-Learning/
+├── Chatbot/
+│   ├── Chatbot_BloodConnect.ipynb    # Main training notebook
+│   ├── model_chatbot.ipynb           # Model architecture
+│   └── notes.txt                     # Development notes
+├── Dataset/
+│   ├── bloodconnect_faq_train.csv    # Training dataset
+│   ├── bloodconnect_faq_valid.csv    # Validation dataset
+│   └── Copy_of_Dataset_Seleksi_Pendonor_Darah.csv
+├── Time_Series_Blood_Donation/       # Time series analysis
+├── requirements.txt                  # Python dependencies
+└── README.md                        # This file
