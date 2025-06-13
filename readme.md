@@ -1,5 +1,5 @@
 # Machine Learning: K-Nearest Neighbors
-K-Nearest Neighbors (KNN) merupakan sebuah algoritma Supervised Learning yang bisa digunakan untuk tugas klasifikasi dan regresi. Cara algoritma ini bekerja dengan menemukan titik K dengan titik data lain yang saling berdekatan pada data pelatihan dan menggunakan labelnya untuk memprediksi label.
+K-Nearest Neighbors (KNN) merupakan sebuah algoritma Unsupervised Learning yang bisa digunakan untuk tugas klasifikasi dan regresi. Cara algoritma ini bekerja dengan menemukan titik K dengan titik data lain yang saling berdekatan pada data pelatihan dan menggunakan labelnya untuk memprediksi label.
 
 Data Source: https://www.kaggle.com/datasets/whenamancodes/blood-transfusion-dataset
 
