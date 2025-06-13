@@ -18,11 +18,20 @@ Due to GitHub file size limitations, not all project files can be uploaded to th
   [Notebook model_chatbot.ipynb](https://colab.research.google.com/drive/13ymZKxB5njFNzJdVxjrZRiyiBFXKKukk?usp=sharing)
 
 ### 📋 Files Included in GitHub Repository
-Chatbot/ <br>
-├── Dataset/ <br>
-│   ├── bloodconnect_faq_train.csv    # Training dataset <br>
-│   ├── bloodconnect_faq_valid.csv    # Validation dataset <br>
-├── model_chatbot.ipynb               # Main training notebook <br>
-├── Chatbot_BloodConnect.ipynb        # Custom dataset notebook <br>
-├── requirements.txt                  # Python dependencies <br>
-└── README.md                        # This file <br>
+
+```
+project-root/
+├── Dataset/
+│   ├── bloodconnect_faq_valid.csv
+│   ├── bloodconnect_faq_train.csv
+│   ├── bloodconnect_faq_test.csv
+├── Model/
+│   ├── EleutherAI RAG/
+│   ├── TinyLlama/
+│   ├── tfidf/
+├── README.md
+├── notes.txt
+├── requirement.txt
+└── README.md
+```
+
